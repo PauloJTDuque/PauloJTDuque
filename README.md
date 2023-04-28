@@ -1,5 +1,10 @@
 ### Hello, I am Paulo Duque
 
+As a Fullstack Developer, my focus is on creating robust, scalable and efficient solutions, always looking for a results-oriented approach. I love working in a team, collaborating with other developers, designers and experts in other fields to deliver quality projects that meet the needs of clients.
+
+My GitHub profile is a showcase of my work and skills, where I share personal projects and contributions to open source projects. Please feel free to explore my portfolio and contact me if you think we can work together on an exciting project. Thank you for visiting my profile!
+
+
 <!--
 **PauloJTDuque/PauloJTDuque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
