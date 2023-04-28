@@ -1,5 +1,5 @@
 
-### Full Stack Developer | WordPress | PHP | ReacJS
+### Full Stack Developer | WordPress | PHP | ReactJS
 -------------------
 
 
