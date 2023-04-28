@@ -42,6 +42,12 @@ My GitHub profile is a showcase of my work and skills, where I share personal pr
   <img width="80" height="50" src="https://pauloduque.dev/wp-content/uploads/2022/04/Cpanel-removebg-preview.png" />
 </div>
 
+#### What i don't know, give me a few days <br>
+
+<p><img align="left" src="https://github-readme-stats-peguimasid.vercel.app/api?username=PauloJTDuque&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PauloJTDuque&show_icons=true&locale=pt-BR&layout=compact&theme=radical" alt="PauloJTDuque" /></p>
+
+
 
 <!--
 **PauloJTDuque/PauloJTDuque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
