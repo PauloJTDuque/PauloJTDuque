@@ -51,7 +51,7 @@ My GitHub profile is a showcase of my work and skills, where I share personal pr
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PauloJTDuque&show_icons=true&locale=EN&layout=compact&title_color=3382ed&hide_border=true&bg_color=171717&theme=radical" alt="PauloJTDuque" /></p><br>
 
 
-<a align="left" href="http://www.github.com/peguimasid"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloJTDuque&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><br>
+<a align="left" href="http://www.github.com/PauloJTDuque"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloJTDuque&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><br>
 
 <!--<a href="http://www.github.com/PauloJTDuque"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=PauloJTDuque&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>-->
 
