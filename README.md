@@ -48,7 +48,7 @@ My GitHub profile is a showcase of my work and skills, where I share personal pr
 #### Badges
 
 <p><img align="left" src="https://github-readme-stats-peguimasid.vercel.app/api?username=PauloJTDuque&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/all-langs?username=PauloJTDuque&show_icons=true&locale=EN&layout=compact&title_color=3382ed&hide_border=true&bg_color=171717&theme=radical" alt="PauloJTDuque" /></p><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PauloJTDuque&show_icons=true&locale=EN&layout=compact&title_color=3382ed&hide_border=true&bg_color=171717&theme=radical" alt="PauloJTDuque" /></p><br>
 
 
 <a align="left" href="http://www.github.com/PauloJTDuque"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloJTDuque&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><br>
